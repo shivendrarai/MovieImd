@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MovieImd/static/css/main.58e1373c.css",
+    "main.js": "/MovieImd/static/js/main.17f542bb.js",
+    "index.html": "/MovieImd/index.html",
+    "static/media/search.svg": "/MovieImd/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.58e1373c.css.map": "/MovieImd/static/css/main.58e1373c.css.map",
+    "main.17f542bb.js.map": "/MovieImd/static/js/main.17f542bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58e1373c.css",
+    "static/js/main.17f542bb.js"
+  ]
+}
